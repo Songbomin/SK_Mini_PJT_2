@@ -1,0 +1,16 @@
+[33m25f1ee4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mgateway[m[33m)[m HEAD@{0}: commit: Feat: 게이트웨이 cors 설정
+[33mcb9dcf5[m HEAD@{1}: pull origin gateway: Merge made by the 'ort' strategy.
+[33mf368f92[m HEAD@{2}: commit: Feat: 게이트웨이 cors 설정
+[33ma44c53c[m HEAD@{3}: commit: Feat: 게이트웨이 cors 설정
+[33m3e86c27[m HEAD@{4}: commit (amend): Feat: 게이트웨이 cors 설정
+[33m10388cb[m[33m ([m[1;31morigin/gateway[m[33m)[m HEAD@{5}: commit: Feat: 게이트웨이 라우팅 수정
+[33mb7e5a29[m HEAD@{6}: commit: Feat: 게이트웨이 CD/CD (레디스 연결 수정)
+[33m61e0bf6[m HEAD@{7}: commit: Feat: 게이트웨이 CD/CD (레디스 연결 수정)
+[33m4cf5025[m HEAD@{8}: commit: Feat: 게이트웨이 CD/CD (엑세스 토큰 재발급)
+[33m262e457[m HEAD@{9}: commit: Feat: 게이트웨이 CD/CD
+[33m69da93d[m HEAD@{10}: commit: Feat: 게이트웨이 CD/CD
+[33m8e2ff91[m HEAD@{11}: commit: Feat: 게이트웨이 CD/CD
+[33m6459430[m HEAD@{12}: commit: Feat: 게이트웨이 CD/CD
+[33m1cfeaa3[m HEAD@{13}: commit: Feat: 게이트웨이 CD/CD
+[33m395f262[m HEAD@{14}: commit: Feat: 게이트웨이 시큐리티 체인 설정(JWT)
+[33m7cc0e7e[m HEAD@{15}: commit (initial): 초기 설정
